@@ -251,11 +251,11 @@
         if (tag === "all") {
           $(this)
             .parents(".item-column")
-            .show(300);
+            .show(280);
         } else if ($(this).data("gallery-tag") === tag) {
           $(this)
             .parents(".item-column")
-            .show(300);
+            .show(280);
         }
       });
     }
