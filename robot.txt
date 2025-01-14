@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ninacarducci.github.io/sitemapxml
+Sitemap: https://johanr94.github.io/ninacarducci/sitemapxml

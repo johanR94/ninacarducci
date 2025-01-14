@@ -6052,7 +6052,6 @@ textarea.form-control-lg {
   justify-content: center;
   width: 15%;
   padding: 0;
-  color: #fff;
   text-align: center;
   background: none;
   border: 0;
@@ -6087,9 +6086,11 @@ textarea.form-control-lg {
   display: inline-block;
   width: 2rem;
   height: 2rem;
+  border-radius: 25%;
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: 100% 100%;
+  background-color: gray;
 }
 
 /* rtl:options: {
